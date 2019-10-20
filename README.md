@@ -6,3 +6,5 @@ From Space Engineers Official Steam Page (https://store.steampowered.com/app/244
 Intergrid communication can take place with normal antennas, however in doing so they transmit their location to not just you. Other players (who may not be so friendly) and hostile AI can see the location of the antenna if they are within range. For short range intergrid communcations, this is not an issue, however at medium-to-large ranges it is. Laser antennas allow for safe intergrid communcation, at the cost of complexity.
 
 This script allows the user to setup a laser antenna communication network, utilizing a single laser antenna at each station and connecting them to various 'hubs' throughout space, communication using laser antennas is made easy. We can either send messages to all stations (such as an alert if a station is under attack, and specifying which station it is), or just a single station (such as "Send ship x to these provided coordinates").
+
+This script is advanced and designed for use by myself and other scripters, and may be difficult to use for non-scripters.
