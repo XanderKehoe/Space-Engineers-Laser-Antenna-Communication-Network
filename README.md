@@ -8,3 +8,5 @@ Intergrid communication can take place with normal antennas, however in doing so
 This script allows the user to setup a laser antenna communication network, utilizing a single laser antenna at each station and connecting them to various 'hubs' throughout space, communication using laser antennas is made easy. We can either send messages to all stations (such as an alert if a station is under attack, and specifying which station it is), or just a single station (such as "Send ship x to these provided coordinates").
 
 This script is advanced and designed for use by myself and other scripters, and may be difficult to use for non-scripters.
+
+This script is sadly outdated as of now due to the intergrid communcation structure being overhauled (and same for writing to LCD's screens apparently), but with some modification it can work again.
